@@ -10,14 +10,15 @@ Code: C++, WT library
 -  Install all packages 
 - Get familar with WT library 
 - Wiki page 
-
+- Sketch ideas
 11/15/2016
-- Sketch ideas 
 - Write pseudocode 
 - Get files for dictionary
+- Start writing code
 
 11/26/2016
 - Implement code
+- Debugging and re-checking
 
 
 12/02/2016
