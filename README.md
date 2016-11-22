@@ -1,14 +1,14 @@
 # AdvancedProject CS340 
-# Web app development using WT, C++ webtool 
+# Web app development using QT, Cross platform development using C++  
 Project: Dictionary( Language converter)
-Code: C++, WT library
+Code: C++, Qt library 
 
 
 # Milestone
 
 10/30/2016
 -  Install all packages 
-- Get familar with WT library 
+- Get familar with QT library 
 - Wiki page 
 - Sketch ideas
 11/15/2016
@@ -28,10 +28,9 @@ Code: C++, WT library
 12/12/2016
 - Polish webpage 
 
-# What is WT(pronounced as witty)? 
-Wt (pronounced as witty) is a C++ library for developing web applications.
-
-The API is widget-centric and uses well-tested patterns of desktop GUI development tailored to the web. 
-
+# What is QT( pronounced Cute)? 
+- Cross platform application development framework.
+- user experience across hardware platforms
+- It can bind to any language can can be writeen in c++, python, c#, Java and more..
 
 
