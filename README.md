@@ -1,6 +1,6 @@
 # AdvancedProject CS340 
 # Web app development using QT, Cross platform development using C++  
-Project: Dictionary( Language converter)
+Project: Dictionary( Nepali to English Language converter)
 Code: C++, Qt library 
 
 
@@ -14,6 +14,10 @@ Code: C++, Qt library
 11/15/2016
 - Write pseudocode 
 - Get files for dictionary
+
+11/21/2016
+- Get familar with mysql search and query
+- Generate mysql database file
 - Start writing code
 
 11/26/2016
@@ -22,11 +26,11 @@ Code: C++, Qt library
 
 
 12/02/2016
--Make interactive webpage
+-Make interactive application
 - Enhance GUI
 
 12/12/2016
-- Polish webpage 
+- Polish everything
 
 # What is QT( pronounced Cute)? 
 - Cross platform application development framework.
