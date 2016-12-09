@@ -1,8 +1,10 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
-#include <QtSql>
-#include <QtDebug>
+
 #include <QFileInfo>
+#include <QDebug>
+#include <QDialog>
+#include <QtSql>
 
 #include <QMainWindow>
 
@@ -21,8 +23,12 @@ public:
 private slots:
     void on_pushButton_clicked();
 
+    void on_pushButton_2_clicked();
+
 private:
     Ui::MainWindow *ui;
+    QSqlDatabase myDB;
+
 };
 
 #endif // MAINWINDOW_H
