@@ -1,7 +1,10 @@
 # AdvancedProject CS340 
-# Web app development using QT, Cross platform development using C++  
+#App development using QT, Cross platform development using C++  
 Project: Dictionary( Nepali to English Language converter)
 Code: C++, Qt library 
+Check my youtube video for more details on this project. 
+https://youtu.be/IZl2zm_zkMs
+
 
 
 # Milestone
